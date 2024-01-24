@@ -1,9 +1,9 @@
 ## Olá, meu nome é João Francisco!
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Yuusha-Hero&repo=Jogo-da-Velha)](https://github.com/Yuusha-Hero/Jogo-da-Velha)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Yuusha-Hero&repo=pedra-papel-tesoura)](https://github.com/Yuusha-Hero/pedra-papel-tesoura)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yuushahero&repo=Jogo-da-Velha)](https://github.com/yuushahero/Jogo-da-Velha)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yuushahero&repo=pedra-papel-tesoura)](https://github.com/yuushahero/pedra-papel-tesoura)
 
 ## Eu programo as seguintes linguagens e tecnologias!
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yuusha-Hero&show&hide_progress=false)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuushahero&show&hide_progress=false)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Joao-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
